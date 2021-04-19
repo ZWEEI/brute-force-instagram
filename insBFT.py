@@ -2,7 +2,6 @@ from __future__ import absolute_import
 from __future__ import print_function
 import requests, sys, threading, time, os, random
 from random import randint
-from six.moves import input
 
 CheckVersion = str (sys.version)
 import re
