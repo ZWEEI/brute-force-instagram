@@ -1,7 +1,7 @@
 ## Getting Started
-1. ```git clone https://github.com/0xfff0800/Brute-force-Instagram-2021.git```
-2. ```cd Brute-force-Instagram-2021```
-3. ```python3 insTof5.py```
+1. ```git clone https://github.com/ZWEEI/Brute-force-Instagram.git```
+2. ```cd Brute-force-Instagram```
+3. ```python3 insBFT.py```
 
 ## Kali Linux operating system. recommended :
 - Cyborg
